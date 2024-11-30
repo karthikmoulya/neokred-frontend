@@ -1,0 +1,1 @@
+.app{display:flex;height:100vh}.editor-pane,.preview-pane{flex:1;padding:10px}.editor{width:100%;height:100%;font-size:16px;font-family:Courier New,Courier,monospace;border:none;outline:none;resize:none}.preview{width:100%;height:100%;overflow-y:auto;background:#f8f9fa;padding:15px;border-left:1px solid #ccc}
